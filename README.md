@@ -17,3 +17,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -Next
 -Sass
 -TypeScript
+
+# Tela Inicial
+![Inicial](https://user-images.githubusercontent.com/40778725/132875780-6ab6f6c0-715f-4815-b35c-00741aca7a7b.jpg)
+
+# Pod Cast Info
+![PodCastAberto](https://user-images.githubusercontent.com/40778725/132876013-8dcba766-efef-4a1e-ac80-903ec5c8f66c.jpg)
